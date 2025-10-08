@@ -1,6 +1,10 @@
 # A Next.JS website created to educate people about Green Computing
 ## Created as part of Industrial & Community Engagement unit for university
 
+### Goals achieved with project:
+- Develop a digital solution that can educate others on green computing 
+- Course in Context (Full-Stack/ Website)
+
 ### List of Topics
 - Definition of Green Computing
 - Importance and Benefits
