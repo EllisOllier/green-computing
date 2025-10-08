@@ -8,7 +8,7 @@ export default function Home() {
             </header>
             <main className="flex flex-col gap-10">
                 <div className="flex justify-start">
-                    <div className="flex flex-row items-center gap-6 border w-lg p-2 rounded-md">
+                    <div className="flex flex-row items-center gap-6 border w-xl p-2 h-auto rounded-md">
                         <Image
                             className="border-md rounded-lg"
                             src="/iStock-640185420-scaled.jpg"
@@ -17,7 +17,7 @@ export default function Home() {
                             alt="Image for green computing"
                         />
                         <div>
-                            <h2>First point about green computing</h2>
+                            <h2 className="font-semibold text-lg">First point about green computing</h2>
                             <p>
                                 Lorem ipsum dolor sit amet consectetur
                                 adipisicing elit. Vel enim itaque cupiditate
@@ -29,7 +29,7 @@ export default function Home() {
                     </div>
                 </div>
                 <div className="flex justify-end">
-                    <div className="flex flex-row items-center gap-6 border w-lg p-2 rounded-md">
+                    <div className="flex flex-row items-center gap-6 border w-xl p-2 h-auto rounded-md">
                         <Image
                             className="border-md rounded-lg"
                             src="/iStock-640185420-scaled.jpg"
@@ -38,7 +38,7 @@ export default function Home() {
                             alt="Image for green computing"
                         />
                         <div>
-                            <h2> Second point about green computing</h2>
+                            <h2 className="font-semibold text-lg"> Second point about green computing</h2>
                             <p>
                                 Lorem, ipsum dolor sit amet consectetur
                                 adipisicing elit. Quasi error quidem quisquam
@@ -51,7 +51,7 @@ export default function Home() {
                     </div>
                 </div>
                 <div className="flex justify-start">
-                    <div className="flex flex-row items-center gap-6 border w-lg p-2 rounded-md">
+                    <div className="flex flex-row items-center gap-6 border w-xl h-auto p-2 rounded-md">
                         <Image
                             className="border-md rounded-lg"
                             src="/iStock-640185420-scaled.jpg"
@@ -60,7 +60,7 @@ export default function Home() {
                             alt="Image for green computing"
                         />
                         <div>
-                            <h2> Third point about green computing</h2>
+                            <h2 className="font-semibold text-lg"> Third point about green computing</h2>
                             <p>
                                 Lorem ipsum dolor sit amet consectetur,
                                 adipisicing elit. Repellendus quibusdam animi
