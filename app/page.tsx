@@ -12,6 +12,7 @@ export default function Home() {
                         <h2>First point about green computing</h2>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel enim itaque cupiditate amet illo ad esse hic molestias. Ipsum cumque numquam vitae aspernatur excepturi eum totam commodi aut aliquam libero.</p>
                         <Image 
+                          className="border-md rounded-lg"
                           src="/iStock-640185420-scaled.jpg"
                           width={250}
                           height={250}
@@ -24,6 +25,7 @@ export default function Home() {
                         <h2> Second point about green computing</h2>
                         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi error quidem quisquam sapiente dolorem incidunt exercitationem, veritatis impedit! Repellat architecto neque incidunt maiores minima possimus aspernatur nulla, delectus ipsum vitae!</p>
                         <Image 
+                          className="border-md rounded-lg"
                           src="/iStock-640185420-scaled.jpg"
                           width={250}
                           height={250}
@@ -36,6 +38,7 @@ export default function Home() {
                         <h2> Third point about green computing</h2>
                         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus quibusdam animi recusandae consequatur laboriosam, fuga cupiditate cumque ullam ratione, id eius vel vitae eveniet molestias culpa minima nemo eos laborum.</p>
                         <Image 
+                          className="border-md rounded-lg"
                           src="/iStock-640185420-scaled.jpg"
                           width={250}
                           height={250}
