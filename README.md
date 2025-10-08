@@ -3,7 +3,7 @@
 
 ### Goals achieved with project:
 - Develop a digital solution that can educate others on green computing 
-- Course in Context (Full-Stack/ Website)
+- Course in Context
 
 ### List of Topics
 - Definition of Green Computing
