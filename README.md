@@ -15,7 +15,25 @@
 - Emerging Trends
 
 ### Sources - Deep Research Conducted by ChatGPT
-Tree Icon & Leaf SVG: https://icon-icons.com/icon/tree-leaf/83777
+#### Image Sources
+#### Tree Icon & Leaf SVG: 
+https://icon-icons.com/icon/tree-leaf/83777
+#### Definition of Green Computing Image: 
+https://blogs.nvidia.com/blog/what-is-green-computing/#:~:text=Green%20computing%2C%20also%20called%20sustainable,software%20are%20designed%20and%20used
+#### Importance and Benefits Image: 
+https://www.itpro.com/infrastructure/data-centres/global-power-shortages-mean-data-centers-could-struggle-to-shoulder-the-burden-of-energy-intensive-generative-ai-demands-in-2024
+#### Sustainable IT Practices Image: 
+https://www.cloud4u.com/blog/what-is-server-virtualization/
+#### Green Data Centers & Cloud Image: 
+https://bigdataanalyticsnews.com/green-cloud-computing-sustainable-use/
+#### E-Waste and Lifecycle Image:
+https://circularcomputing.com/news/windows-11-looming-e-waste-avalanche-or-opportunity-for-change/
+#### Standards and Initiatives Image: 
+https://www.digi.com/blog/post/investing-in-green-technology
+#### Emerging Trends Image: 
+https://atmecs.com/green-computing-adopting-eco-friendly-it-practices/
+
+#### Research Sources
 
 #### Definition of Green Computing:
 [1] https://www.ibm.com/think/topics/green-computing#:~:text=Green%20computing%20,the%20use%20of%20renewable%20resources  
