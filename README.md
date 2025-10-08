@@ -14,7 +14,7 @@
 - Standards and Initiatives
 - Emerging Trends
 
-### Sources - Deep Research Conducted by ChatGPT
+### Sources
 #### Image Sources
 #### Tree Icon & Leaf SVG: 
 https://icon-icons.com/icon/tree-leaf/83777
@@ -33,7 +33,7 @@ https://www.digi.com/blog/post/investing-in-green-technology
 #### Emerging Trends Image: 
 https://atmecs.com/green-computing-adopting-eco-friendly-it-practices/
 
-#### Research Sources
+#### Research Sources - Deep Research Conducted by ChatGPT
 
 #### Definition of Green Computing:
 [1] https://www.ibm.com/think/topics/green-computing#:~:text=Green%20computing%20,the%20use%20of%20renewable%20resources  
