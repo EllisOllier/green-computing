@@ -28,3 +28,14 @@ Card 6:
 Card 7:
 [14] https://www.gartner.com/en/articles/green-computing#:~:text=Computations%20that%20consume%20the%20highest,next%20five%20to%2010%20years
 [15] https://www.techtarget.com/searchdatacenter/definition/green-computing#:~:text=In%20many%20organizations%2C%20green%20computing,responsible%20corporate%20management%20and%20strategies
+
+
+
+
+Card 1 Image: https://blogs.nvidia.com/blog/what-is-green-computing/#:~:text=Green%20computing%2C%20also%20called%20sustainable,software%20are%20designed%20and%20used
+Card 2 Image: https://www.itpro.com/infrastructure/data-centres/global-power-shortages-mean-data-centers-could-struggle-to-shoulder-the-burden-of-energy-intensive-generative-ai-demands-in-2024
+Card 3 Image: https://www.cloud4u.com/blog/what-is-server-virtualization/
+Card 4 Image: https://bigdataanalyticsnews.com/green-cloud-computing-sustainable-use/
+Card 5 Image: https://circularcomputing.com/news/windows-11-looming-e-waste-avalanche-or-opportunity-for-change/
+Card 6 Image: https://www.digi.com/blog/post/investing-in-green-technology
+Card 7 Image: https://atmecs.com/green-computing-adopting-eco-friendly-it-practices/
