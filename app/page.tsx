@@ -31,7 +31,6 @@ export default function Home() {
                 </a>
             </header>
             <main className="flex flex-col gap-16 relative">
-                {/* Card 1 */}
                 <div className="flex justify-start relative">
                     <div className="flex flex-row items-center gap-6 border border-green-300 bg-white/80 shadow-lg w-xl p-4 h-auto rounded-xl">
                         <Image
