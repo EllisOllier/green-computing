@@ -1,11 +1,12 @@
 import ImageSourceList from "@/components/ImageSourceList";
 import SourceList from "@/components/SourceList";
+import Image from "next/image";
 
 export default function Sources() {
     return (
         <div className="font-sans min-h-screen bg-gradient-to-b from-green-50 via-green-100 to-green-200 p-8 sm:p-20">
             <header className="flex items-center gap-3 mb-8">
-                <img
+                <Image
                     src="/leaf.svg"
                     alt="Leaf Icon"
                     width={32}
