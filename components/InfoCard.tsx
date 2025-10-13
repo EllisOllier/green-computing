@@ -33,7 +33,7 @@ export default function InfoCard({
                     {title}
                 </h2>
                 <p className="text-green-900">{description}</p>
-                <h3>Sources</h3>
+                <h3 className="mb-1 mt-1 text-green-700 font-bold">Sources: </h3>
                 <ul className="flex gap-1">
                     {sources &&
                         sources.map((source, index) => {
