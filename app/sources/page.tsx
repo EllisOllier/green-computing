@@ -1,3 +1,4 @@
+import ImageSourceList from "@/components/ImageSourceList";
 import SourceList from "@/components/SourceList";
 
 export default function Sources() {
@@ -20,112 +21,18 @@ export default function Sources() {
                     <h2 className="font-bold text-green-800 text-xl mb-4">
                         Images
                     </h2>
-                    <ul className="list-disc list-inside space-y-3 text-green-900">
-                        <li>
-                            <span className="font-semibold text-green-700">
-                                Definition of Green Computing:
-                            </span>{" "}
-                            <a
-                                href="https://blogs.nvidia.com/blog/what-is-green-computing/#:~:text=Green%20computing%2C%20also%20called%20sustainable,software%20are%20designed%20and%20used"
-                                className="text-green-700 underline"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                            >
-                                https://blogs.nvidia.com/blog/what-is-green-computing/...
-                            </a>
-                        </li>
-                        <li>
-                            <span className="font-semibold text-green-700">
-                                Importance and Benefits:
-                            </span>{" "}
-                            <a
-                                href="https://www.itpro.com/infrastructure/data-centres/global-power-shortages-mean-data-centers-could-struggle-to-shoulder-the-burden-of-energy-intensive-generative-ai-demands-in-2024"
-                                className="text-green-700 underline"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                            >
-                                https://www.itpro.com/infrastructure/data-centres/...
-                            </a>
-                        </li>
-                        <li>
-                            <span className="font-semibold text-green-700">
-                                Sustainable IT Practices:
-                            </span>{" "}
-                            <a
-                                href="https://www.cloud4u.com/blog/what-is-server-virtualization/"
-                                className="text-green-700 underline"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                            >
-                                https://www.cloud4u.com/blog/what-is-server-virtualization/
-                            </a>
-                        </li>
-                        <li>
-                            <span className="font-semibold text-green-700">
-                                Green Data Centers &amp; Cloud:
-                            </span>{" "}
-                            <a
-                                href="https://bigdataanalyticsnews.com/green-cloud-computing-sustainable-use/"
-                                className="text-green-700 underline"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                            >
-                                https://bigdataanalyticsnews.com/green-cloud-computing-sustainable-use/
-                            </a>
-                        </li>
-                        <li>
-                            <span className="font-semibold text-green-700">
-                                E-Waste and Lifecycle:
-                            </span>{" "}
-                            <a
-                                href="https://circularcomputing.com/news/windows-11-looming-e-waste-avalanche-or-opportunity-for-change/"
-                                className="text-green-700 underline"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                            >
-                                https://circularcomputing.com/news/windows-11-looming-e-waste-avalanche-or-opportunity-for-change/
-                            </a>
-                        </li>
-                        <li>
-                            <span className="font-semibold text-green-700">
-                                Standards and Initiatives:
-                            </span>{" "}
-                            <a
-                                href="https://www.digi.com/blog/post/investing-in-green-technology"
-                                className="text-green-700 underline"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                            >
-                                https://www.digi.com/blog/post/investing-in-green-technology
-                            </a>
-                        </li>
-                        <li>
-                            <span className="font-semibold text-green-700">
-                                Emerging Trends:
-                            </span>{" "}
-                            <a
-                                href="https://atmecs.com/green-computing-adopting-eco-friendly-it-practices/"
-                                className="text-green-700 underline"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                            >
-                                https://atmecs.com/green-computing-adopting-eco-friendly-it-practices/
-                            </a>
-                        </li>
-                        <li>
-                            <span className="font-semibold text-green-700">
-                                Tree Icon &amp; Leaf SVG:
-                            </span>{" "}
-                            <a
-                                href="https://icon-icons.com/icon/tree-leaf/83777"
-                                className="text-green-700 underline"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                            >
-                                https://icon-icons.com/icon/tree-leaf/83777
-                            </a>
-                        </li>
-                    </ul>
+                    <ImageSourceList 
+                        sources={[
+                            {title: "Definition of Green Computing", href: "https://blogs.nvidia.com/blog/what-is-green-computing/#:~:text=Green%20computing%2C%20also%20called%20sustainable,software%20are%20designed%20and%20used" },
+                            {title: "Importance and Benefits", href: "https://www.itpro.com/infrastructure/data-centres/global-power-shortages-mean-data-centers-could-struggle-to-shoulder-the-burden-of-energy-intensive-generative-ai-demands-in-2024" },
+                            {title: "Sustainable IT Practices", href: "https://www.cloud4u.com/blog/what-is-server-virtualization/" },
+                            {title: "Green Data Centers & Cloud", href: "https://bigdataanalyticsnews.com/green-cloud-computing-sustainable-use/" },
+                            {title: "E-Waste and Lifecycle", href: "https://circularcomputing.com/news/windows-11-looming-e-waste-avalanche-or-opportunity-for-change/" },
+                            {title: "Standards and Initiatives", href: "https://www.digi.com/blog/post/investing-in-green-technology" },
+                            {title: "Emerging Trends", href: "https://atmecs.com/green-computing-adopting-eco-friendly-it-practices/" },
+                            {title: "Tree Icon & Leaf SVG", href: "https://icon-icons.com/icon/tree-leaf/83777" },
+                        ]}
+                    />
                 </section>
                 <section>
                     <h2 className="font-bold text-green-800 text-xl mb-4">
