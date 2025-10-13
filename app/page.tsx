@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function Home() {
     return (
         <div className="font-sans flex flex-col min-h-screen p-8 pb-20 gap-16 sm:p-20 bg-gradient-to-b from-green-50 via-green-100 to-green-200">
-            <header className="flex items-center gap-4 mb-8">
+            <header className="flex justify-center items-center gap-4 mb-8">
                 <Image
                     className="border-md rounded-lg bg-green-200 p-1 shadow-md"
                     src="/leaf.svg"
