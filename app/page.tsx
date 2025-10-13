@@ -12,7 +12,7 @@ export default function Home() {
                     height={35}
                     alt="Black Leaf"
                 />
-                <h1 className="font-extrabold text-4xl text-green-800 drop-shadow-sm tracking-tight">
+                <h1 className="font-extrabold text-4xl text-green-800 drop-shadow-sm tracking-wide">
                     Green Computing
                 </h1>
                 <a
